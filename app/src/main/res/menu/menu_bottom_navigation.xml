@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_stock"
+        android:icon="@drawable/sticker_3rdparty_web"
+        android:title="@string/stock" />
+
+    <item
+        android:id="@+id/action_add"
+        android:icon="@drawable/sticker_3rdparty_add"
+        android:title="@string/add" />
+
+    <item
+        android:id="@+id/action_custom"
+        android:icon="@drawable/ic_launcher_foreground"
+        android:title="@string/custom" />
+</menu>

@@ -1,0 +1,164 @@
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "1",
+      "name": "DevRunner",
+      "publisher": "DevRunner",
+      "tray_image_file": "tray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "0.webp",
+          "emojis": [
+            "🐞",
+            "❓"
+          ]
+        },
+        {
+          "image_file": "1.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": [
+            "😆",
+            "😂"
+          ]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": [
+            "🔚"
+          ]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": [
+            "💪"
+          ]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": [
+            "❓"
+          ]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": [
+            "😋",
+            "🥗"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "2",
+      "name": "OTUS coding Owl",
+      "publisher": "OTUScodingOwl",
+      "tray_image_file": "tray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "0.webp",
+          "emojis": [
+            "👍"
+          ]
+        },
+        {
+          "image_file": "1.webp",
+          "emojis": [
+            "😋"
+          ]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": [
+            "💪",
+            "👊"
+          ]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": [
+            "✋",
+            "⛔",
+            "🚫"
+          ]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": [
+            "☕",
+            "👌"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "3",
+      "name": "Programmer",
+      "publisher": "computer_scientist",
+      "tray_image_file": "tray.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": true,
+      "stickers": [
+        {
+          "image_file": "0.webp",
+          "emojis": [
+            "🤨"
+          ]
+        },
+        {
+          "image_file": "1.webp",
+          "emojis": [
+            "👍",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": [
+            "🥰",
+            "😘",
+            "❤️"
+          ]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": [
+            "😭",
+            "💧"
+          ]
+        }
+      ]
+    }
+  ]
+}
